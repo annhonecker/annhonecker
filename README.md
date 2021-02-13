@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Ann 👋</h1>
+<h1>Hi there, I'm Ann!</h1>
 
 <h2>What I've worked with so far:</h2>
 <h3>Frontend</h3>
@@ -22,5 +22,3 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mongodb%20-%23222324.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
-![Ann's Github Stats](https://github-readme-stats.vercel.app/api?username=annhonecker&count_private=true&show_icons=true&hide=issues,contribs)
